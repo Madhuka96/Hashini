@@ -13,7 +13,7 @@ and open the template in the editor.
         <h1>Name : A.W.Hashini Madhuka</h1>
         <h3>Adress : Hikkaduwa</h3>
         <h3>Adress : Hikkaduwa</h3>
-        
-        
+        <h3>I am working at Synotec Holdings (pvt)ltd.</h3>
+   
     </body>
 </html>
